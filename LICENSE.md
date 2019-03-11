@@ -1,4 +1,5 @@
 Copyright (c) 2011 The Go Authors. All rights reserved.
+
 Copyright (c) 2019 Kieran W (non library code) 
 
 Redistribution and use in source and binary forms, with or without
