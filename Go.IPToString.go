@@ -1,10 +1,12 @@
 package main
 
+// Copyright 2019 Kieran W.  All rights reserved.
+// Use of this source code is governed by a BSD-style
+// license that can be found in the LICENSE file.
+
 import "fmt"
 
 type IPAddr [4]byte
-
-// TODO: Add a "String() string" method to IPAddr.
 
 func (ip IPAddr) String() string{
 	return fmt.Sprintf("%v.%v.%v.%v", ip[0], ip[1], ip[2], ip[3])
