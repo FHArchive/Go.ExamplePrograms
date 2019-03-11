@@ -1,5 +1,9 @@
 package main
 
+// Copyright 2019 Kieran W.  All rights reserved.
+// Use of this source code is governed by a BSD-style
+// license that can be found in the LICENSE file.
+
 import (
     "fmt"
     "math"
